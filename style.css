@@ -1,0 +1,25 @@
+
+header {text-align: center;
+  font-family: 'Luckiest Guy';
+    font-size: 50px;
+}
+
+nav {font-family: 'Luckiest Guy';
+text-align: center;
+}
+
+nav a {padding-left: 10px;
+padding-right: 10px;
+color: black;
+}
+
+h1 {font-family: 'Luckiest Guy';
+    font-size: 20px;
+    text-align: center;
+  color: pink;}
+    
+h2 {font-family: 'Luckiest Guy';
+    font-size: 22px; }
+
+
+
